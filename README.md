@@ -1,1 +1,1 @@
-# Shreyash
+# Python Tkinter Calculator
